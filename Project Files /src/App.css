@@ -1,0 +1,312 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #ff0000;
+  width: 100%;
+}
+
+.header {
+  background: #0d0d0d;
+  height: 521px;
+  width: 100%;
+  border-radius:5px;
+}
+
+.topnav {
+  position: sticky;
+  top: 0px;
+  left: 30px;
+  overflow: scroll;
+  background-color: rgb(12, 12, 12);
+}
+
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 40px;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 10px;
+  margin-right: 5px;
+  margin-left: 0px;
+ 
+}
+
+.topnav a:hover {
+  position: sticky;
+  background-color: #9f9f9f;
+  color: rgb(255, 255, 255);
+ 
+}
+
+.topnav a.active {
+  position: sticky;
+ 
+  background-color: #f51b1b;
+  color: rgb(255, 255, 255);
+}
+
+/* header */
+
+.headerimage {
+  margin-top: 90px;
+  position: absolute;
+  max-width: fit-content;
+  height: 700px;
+  left: 500px;
+  top: -150px;
+  overflow: hidden;
+}
+
+.heading {  
+  position: absolute;
+  width: 872px;
+  height: 123px;
+  left: 150px;
+  top: 100px;
+  
+  font-family: 'Times New Roman', Times, serif;
+  font-style: inherit;
+  font-weight: 800;
+  font-size: 100px;
+  line-height:3px;
+  color: #ffffff;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.11em;
+}
+
+.description {
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  position: absolute;
+  width: 915px;
+  height: 110px;
+  left: 146px;
+  top: 220px;
+  color: #ffffff;
+}
+
+/* header */
+
+.section-1 {
+  position: relative;
+  height: 200px;
+  background-color:  #dc0000;
+}
+
+/* Search bar*/
+
+.card2 {
+  position: relative;
+  top: 50px;
+  width: 1000px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.form-label {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.form-control {
+  height: 40px;
+  font-size: 16px;
+}
+
+.btn {
+  border-radius: 100px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #1d1d1d;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #9b9b9b;
+}
+    
+.home-section {
+  position: relative;
+  background-color: rgb(10, 10, 10);
+  padding: 40px;
+  text-align: center;
+}
+
+.home-section img {
+  margin-top: -40px;
+  margin-bottom: -40px;
+  width: 500px;
+  height: 800px;
+  padding-right: 50px;
+  float: left;
+  margin-left: -250px;
+  
+}
+
+.home-section h2 {
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 150px;
+  color: rgb(255, 255, 255);
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.home-section p {
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  font-size: 24px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 15px 50px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #000000;
+  border-radius: 50px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.1s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #555555;
+}
+
+/* Compare page */
+
+.comparebox {
+  color: white;
+  background-color: #0c0c0c;
+  top: 150px;
+  position: relative;
+  border-radius: 20px;
+  border: 1px solid #000000;
+  padding: 50px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.comparebox2 {
+  top: 150px;
+  position: relative;
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+.addp{
+  margin-left: 120px;
+  margin-top: -10px ;
+}
+.comparebutton {
+  display: block;
+  margin: 20px auto;
+  padding: 5px 40px;
+  background-color: #c00000;
+  color: white;
+  font-size: 20px;
+  border-radius: 2px;
+  border: red;
+  cursor: pointer;
+}
+
+.comparebutton:hover {
+  background-color: #e44949;
+}
+
+.removebutton {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 0px;
+  background-color: #454545;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.footer{
+  font-size: 40px;
+  color: white;
+  height: 70px;
+  background-color: #c00000;
+}
+
+.footerText{
+  margin-left: 1200px;
+}
+.instructions-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.instructions-container {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px; /* Adjust the max-width as needed */
+}
+
+.instructions-container h2 {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.instructions-container ol {
+  margin-left: 20px;
+}
+
+.instructions-container ol li {
+  margin-bottom: 10px;
+}
