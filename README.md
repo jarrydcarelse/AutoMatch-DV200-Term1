@@ -151,8 +151,6 @@ During the development of this project, I encountered several challenges that re
 
 To see a run through of the application, click below:
 
-[View Demonstration](https://drive.google.com/file/d/1NGFQRjZjbKTZfkI7rD953dGHe0_uxuZx/view?usp=sharing 
-)
 
 <!-- AUTHORS -->
 ## Authors
