@@ -3,7 +3,7 @@ Term 1 Project readMe file with Demo Video
 ![Alt text](Untitled.png)
 <h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
-<h6 align="center">DV200 2023</h6>
+<h6 align="center">DV200 2024</h6>
 </br>
 <p align="center">
 
