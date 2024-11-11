@@ -18,9 +18,9 @@ Term 1 Project readMe file with Demo Video
    <br />
    <br />
 <a href="https://drive.google.com/drive/folders/1Ouls7Ppb2QI_jpC3DQ3DyM7F-GYcMtf5">View Demo Walkthrough (Google Drive)</a>
-    ·
+    
   
-    ·
+    
    
 </p>
 <!-- TABLE OF CONTENTS -->
