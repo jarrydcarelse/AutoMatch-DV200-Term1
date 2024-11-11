@@ -91,16 +91,6 @@ Run the following in the command-line to install all the required dependencies:
    ```sh
    npm install
   
-<!-- FEATURES AND FUNCTIONALITY-->
-![Alt text](compare.jpg
-)
-### The section where one can select two cars and compare them side by side.
-
-
-![Alt text](chart.jpg
-)
-### Using Chart.js you can select a car you would like to view information on and it gives you the information in a form of a line chart.
-
 
 
 ## Development Process
@@ -133,18 +123,7 @@ During the development of this project, I encountered several challenges that re
 
 *Responsive Design: Creating a responsive design that worked well on various screen sizes and devices required careful consideration. Ensuring that the website was user-friendly and visually appealing on both desktop and mobile platforms was a continuous challenge.
 
-<!-- MOCKUPS -->
-## Final Outcome
 
-### Mockups
-![Alt text](home.jpg
-)
-<br>
-![Alt text](compare.jpg
-)
-<br>
-![Alt text](chart.jpg
-)
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
