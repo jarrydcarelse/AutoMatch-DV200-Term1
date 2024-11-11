@@ -1,5 +1,5 @@
 # Term1_DV200_JarrydCarelse_221267
-Term 1 Project readMe file with Demo Video
+
 ![Alt text](headeram.jpg)
 <h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
