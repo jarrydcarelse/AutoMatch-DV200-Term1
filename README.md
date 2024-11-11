@@ -127,8 +127,8 @@ During the development of this project, I encountered several challenges that re
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
+<a href="https://drive.google.com/drive/folders/1Ouls7Ppb2QI_jpC3DQ3DyM7F-GYcMtf5">View Demo Walkthrough (Google Drive)</a>
 
-To see a run through of the application, click below:
 
 
 <!-- AUTHORS -->
