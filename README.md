@@ -1,6 +1,6 @@
 # Term1_DV200_JarrydCarelse_221267
 Term 1 Project readMe file with Demo Video
-![Alt text](Untitled.png)
+![Alt text](headeram.jpg)
 <h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
 <h6 align="center">DV200 2024</h6>
@@ -19,9 +19,9 @@ Term 1 Project readMe file with Demo Video
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
     ·
-    <a href="https://github.com/username/projectname/issues">Report Bug</a>
+  
     ·
-    <a href="https://github.com/username/projectname/issues">Request Feature</a>
+   
 </p>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
